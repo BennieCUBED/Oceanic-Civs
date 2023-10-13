@@ -1,1 +1,16 @@
-
+[
+  {
+		"name": "Digger",
+		"unitType": "Gunpowder",
+    "replaces": "Great War Infantry",
+    "uniqueTo": "Austrialia",
+		"movement": 2,
+		"strength": 50,
+		"cost": 320,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Plastics",
+    "uniques": [""],
+		"attackSound": "shot"
+  },
+]
