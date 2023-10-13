@@ -22,8 +22,9 @@
            "outerColor": [],
            "innerColor": []
            "favoredReligion": "Christianity",
-           "uniques": [""],
-           "cities": ["Canberra"],
+           "uniqueName": "Land Down Under",
+           "uniques": ["[+1 Production] from [Pasture] tiles [in all cities]"],
+           "cities": ["Canberra","Melbourne","Sydney","Brisbane","Darwin","Perth","Hobart","Adelaide","Gold Coast","Townsville","Broome","Mackay","Alice Springs","Port Douglas","Bundaberg"],
      },
 ]
 
