@@ -1,1 +1,12 @@
-
+[
+  {
+    "name": "Outback Station",
+    "uniqueTo": "Australia",
+    "terrainsCanBeBuiltOn": ["Plains","Grassland","Desert"],
+    "food": 1,
+    "turnsToBuild": 7,
+    "requiredTech": "Civil Service",
+    "uniques": [""],
+  },
+]
+    
