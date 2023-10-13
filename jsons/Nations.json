@@ -1,1 +1,30 @@
+[
+     {
+           "name": "Australia",
+           "leaderName": "John Curtin",
+           "adjective": ["Australian"],
+           "startBias": ["Coast"],
+           "preferredVictoryType": "Scientific",
 
+           "startIntroPart1": "...",
+           "startIntroPart2": "Can you build a civilisation that can stand the test of time?",
+
+           "declaringWar": "After thorough deliberation, Australia has considered you a threat to national sercurity. Prepare yourself, war is upon us..!",
+           "attacked": "We will mobilise every means for resistance, to defend land and country.",
+           "defeated": "The principals for which we have fought will survive longer than any nation you could ever build...",
+           "introduction": "John Curtin, I speak for the people of Australia as their prime minister.",
+
+           "neutralHello": "G'day!",
+           "hateHello": "What?",
+
+           "tradeRequest": "G'day",
+
+           "outerColor": [],
+           "innerColor": []
+           "favoredReligion": "Christianity",
+           "uniques": [""],
+           "cities": ["Canberra"],
+     },
+]
+
+           
