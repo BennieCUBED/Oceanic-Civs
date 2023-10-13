@@ -3,7 +3,7 @@
 		"name": "Digger",
 		"unitType": "Gunpowder",
                 "replaces": "Great War Infantry",
-                "uniqueTo": "Austrialia",
+                "uniqueTo": "Australia",
 		"movement": 2,
 		"strength": 50,
 		"cost": 320,
