@@ -6,7 +6,7 @@
     "food": 1,
     "turnsToBuild": 7,
     "requiredTech": "Civil Service",
-    "uniques": [""],
+    "uniques": ["[+1 Food] for each adjacent [Farm]","[+1 Production] for each adjacent [Pasture]"],
   },
 ]
     
