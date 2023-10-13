@@ -17,13 +17,13 @@
            "neutralHello": "G'day!",
            "hateHello": "What?",
 
-           "tradeRequest": "G'day",
+           "tradeRequest": "G'day, want anything?",
 
-           "outerColor": [],
-           "innerColor": []
+           "outerColor": [11, 173, 5],
+           "innerColor": [232, 206, 7],
            "favoredReligion": "Christianity",
            "uniqueName": "Land Down Under",
-           "uniques": ["[+1 Production] from [Pasture] tiles [in all cities]"],
+           "uniques": ["[+1 Production] from [Pasture] tiles [in all cities]","[+1 Culture] from [Coastal] tiles [in all cities]"],
            "cities": ["Canberra","Melbourne","Sydney","Brisbane","Darwin","Perth","Hobart","Adelaide","Gold Coast","Townsville","Broome","Mackay","Alice Springs","Port Douglas","Bundaberg"],
      },
 ]
